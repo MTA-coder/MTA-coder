@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="170" src="https://gitlab.com/uploads/-/system/user/avatar/6226012/avatar.png"  />
+<img align="left" height="170" src="https://gitlab.com/uploads/-/system/user/avatar/6226012/avatar.png" style="border-radius:20%" />
 
 ###
 
